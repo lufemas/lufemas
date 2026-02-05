@@ -2,10 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=90&section=header&text=luis%20maschietto&fontColor=d4d4d4&fontSize=18&letterSpacing=2" />
 </p> -->
 
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=90&section=header&text=luis%20maschietto&fontColor=d4d4d4&fontSize=18&letterSpacing=2" />
+</p> -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-clarity%20%26%20reliability-111111?style=flat" />
-  <img src="https://img.shields.io/badge/approach-simple%20→%20correct%20→%20durable-111111?style=flat" />
-  <img src="https://img.shields.io/badge/interest-systems%20%2B%20games-111111?style=flat" />
+  <img src="https://img.shields.io/badge/focus-clarity%20%26%20reliability-1a1a1a?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/approach-simple%20→%20correct%20→%20durable-1a1a1a?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/interest-systems%20%2B%20games-1a1a1a?style=flat&logoColor=white" />
 </p>
 
 <br>
