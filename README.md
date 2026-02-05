@@ -3,9 +3,9 @@
 </p> -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-clarity%20%26%20reliability-1a1a1a?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/approach-simple%20→%20correct%20→%20durable-1a1a1a?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/interest-systems%20%2B%20games-1a1a1a?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/focus-clarity%20%26%20reliability-111111?style=flat" />
+  <img src="https://img.shields.io/badge/approach-simple%20→%20correct%20→%20durable-111111?style=flat" />
+  <img src="https://img.shields.io/badge/interest-systems%20%2B%20games-111111?style=flat" />
 </p>
 
 <br>
