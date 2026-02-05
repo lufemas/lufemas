@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:333333&height=120&section=header&text=Luis%20Maschietto&fontColor=ffffff&fontSize=24" />
+
 ## Hi
 
 I build software with a bias toward clarity, reliability, and finishing the job.
